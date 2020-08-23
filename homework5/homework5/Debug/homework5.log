@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\Nano\source\repos\homework5\homework5\Source.cpp(10,18): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Nano\source\repos\homework5\homework5\Source.cpp(10,18): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\Nano\source\repos\homework5\homework5\Source.cpp(11,20): warning C4474: 'printf' : too many arguments passed for format string
+C:\Users\Nano\source\repos\homework5\homework5\Source.cpp(11,20): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+  homework5.vcxproj -> C:\Users\Nano\source\repos\homework5\Debug\homework5.exe
