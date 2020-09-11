@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\teeno\source\repos\homework 13\homework 13\Source.cpp(6,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\teeno\source\repos\homework 13\homework 13\Source.cpp(6,20): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\teeno\source\repos\homework 13\homework 13\Source.cpp(13,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\teeno\source\repos\homework 13\homework 13\Source.cpp(13,20): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\teeno\source\repos\homework 13\homework 13\Source.cpp(20,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\teeno\source\repos\homework 13\homework 13\Source.cpp(20,21): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\teeno\source\repos\homework 13\homework 13\Source.cpp(27,17): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\teeno\source\repos\homework 13\homework 13\Source.cpp(27,21): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  homework 13.vcxproj -> C:\Users\teeno\source\repos\homework 13\Debug\homework 13.exe
