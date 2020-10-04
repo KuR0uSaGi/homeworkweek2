@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\teeno\OneDrive\เดสก์ท็อป\repos\lab 5\lab 5\Source.cpp(14,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\teeno\OneDrive\เดสก์ท็อป\repos\lab 5\lab 5\Source.cpp(14,16): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\teeno\OneDrive\เดสก์ท็อป\repos\lab 5\lab 5\Source.cpp(21,14): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\teeno\OneDrive\เดสก์ท็อป\repos\lab 5\lab 5\Source.cpp(21,16): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\teeno\OneDrive\เดสก์ท็อป\repos\lab 5\lab 5\Source.cpp(37,18): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\teeno\OneDrive\เดสก์ท็อป\repos\lab 5\lab 5\Source.cpp(37,25): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+C:\Users\teeno\OneDrive\เดสก์ท็อป\repos\lab 5\lab 5\Source.cpp(47,26): warning C4101: 'sy': unreferenced local variable
+C:\Users\teeno\OneDrive\เดสก์ท็อป\repos\lab 5\lab 5\Source.cpp(47,22): warning C4101: 'sx': unreferenced local variable
+  lab 5.vcxproj -> C:\Users\teeno\OneDrive\เดสก์ท็อป\repos\lab 5\Debug\lab 5.exe
