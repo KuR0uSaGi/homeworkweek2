@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\teeno\OneDrive\เดสก์ท็อป\repos\homework 26\homework 26\Source.cpp(11,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\teeno\OneDrive\เดสก์ท็อป\repos\homework 26\homework 26\Source.cpp(13,21): warning C4018: '<=': signed/unsigned mismatch
+  homework 26.vcxproj -> C:\Users\teeno\OneDrive\เดสก์ท็อป\repos\homework 26\Debug\homework 26.exe
